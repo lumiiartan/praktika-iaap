@@ -1,0 +1,90 @@
+@media print {
+  .topbar,
+  .sidebar,
+  .mobile-nav,
+  .app-footer,
+  .guide-panel,
+  .toast,
+  .no-print {
+    display: none !important;
+  }
+
+  body {
+    background: #fff;
+    color: #000;
+  }
+
+  .app-body,
+  .content {
+    display: block;
+    max-width: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .card {
+    box-shadow: none;
+    border: none;
+    padding: 0;
+  }
+
+  .print-sheet {
+    width: 210mm;
+    min-height: 297mm;
+    padding: 18mm 16mm;
+    margin: 0 auto;
+  }
+
+  .print-sheet h1 {
+    font-size: 20pt;
+  }
+
+  .sign-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 24mm;
+    margin-top: 28mm;
+  }
+
+  .sign-line {
+    border-top: 1px solid #000;
+    padding-top: 4mm;
+    font-size: 10pt;
+  }
+}
+
+.print-sheet {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 1.5rem;
+}
+
+.print-sheet .school {
+  color: #0f3a67;
+  font-weight: 800;
+}
+
+.print-sheet .accent-line {
+  height: 4px;
+  margin: 0.75rem 0 1rem;
+  background: linear-gradient(90deg, #0f3a67, #1e5d96, #d8ab3f);
+}
+
+.sign-row {
+  display: grid;
+  gap: 1.5rem;
+  margin-top: 2.5rem;
+}
+
+@media (min-width: 700px) {
+  .sign-row {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.sign-line {
+  border-top: 1px solid var(--line);
+  padding-top: 0.5rem;
+  color: var(--muted);
+}
