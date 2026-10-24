@@ -1,31 +1,24 @@
-# Fletë e shkurtër për takim (1 faqe)
+# Takim me drejtorin — shënime të shkurtra
 
-**IAAP Skënder Luarasi — digjitalizim modular · start me Praktika**
+**Praktika IAAP · version i thjeshtë (V1)**
 
-## Mesazhi kryesor
-Platformë e shkollës me module. **Tani:** vetëm Praktika (+ bazë). **2027:** module të tjera pa rifilluar nga zero.
+## Çfarë ofrojmë tani
+Deri **15 dhjetor 2026**: sistem i thjeshtë — **nxënës, biznese, caktimi** te bizneset.  
+Jo i plotë (pa ditar / vlerësim / raporte të mëdha). Ato = **Version 2 në 2027**.
 
-## Oferta esencialë
-| | |
-|--|--|
-| **Total me TVSH** | **€6.900** |
-| Afati | **7–8 javë** nga kickoff |
-| Garanci | **6 muaj** bugfix |
-| Role | 5 (drejtor, koordinator, mentor shkolle, mentor biznesi, nxënës) |
+## Pse kështu
+Fillojnë ta përdorin këtë vit. Në 2027, me buxhet, e zgjerojmë.
 
-## Pagesat (propozim)
-20% kickoff → 40% staging → 30% go-live → 10% stabilizim  
-*(ose parapagim + pjesa me buxhetin 2027 — të shkruhet)*
-
-## Demo
+## Demo (ideja)
 https://lumiiartan.github.io/praktika-iaap/
 
-## Çfarë dakordësojmë sot
-1. Scope = esenciale Praktika  
-2. Çmimi € ______  
-3. Fillimi më datë ______  
-4. Kontakt nga shkolla ______  
-5. DNS subdomain ______  
+## Paratë
+Bisedë e hapur: diçka **para janarit 2027**, pjesa tjetër **2027**.  
+Mos i cakto afate/përqindje fiks në takim — dëgjo ata.
 
-## Nesër (pas dakordësisë)
-Unë filloj: staging → modul Praktika → UAT → live.
+## Dakordësi e shkurtër
+- V1 po / jo · data fillimit ______  
+- Kontakt ______ · DNS ______  
+- Çmimi (nga paramasa) € ______  
+
+*Vetëm ky projekt shkolle — jo projekte të tjera.*
