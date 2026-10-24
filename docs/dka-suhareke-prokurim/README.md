@@ -15,3 +15,5 @@ Dokumente të gatshme që drejtori i Arsimit t’ia përcjellë prokurimit për 
 **Demo ideje (vetëm prezantim):** https://lumiiartan.github.io/bursat-suhareke/
 
 **Kujdes:** Specifikimet janë të hapura për konkurrencë — mos e lidh tenderin zyrtarisht me një operator.
+| 08 | `08-ANALIZA-BUXHETI-2027-2029.md` | Analiza e buxhetit — hapësira për tender |
+| 08b | `08b-PERMBLEDHJE-BUXHETI-1-FAQJE.docx` | 1 faqe përmbledhje buxheti |
