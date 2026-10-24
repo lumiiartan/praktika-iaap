@@ -12,6 +12,10 @@ Fillojnë ta përdorin këtë vit. Në 2027, me buxhet, e zgjerojmë.
 ## Demo (ideja)
 https://lumiiartan.github.io/praktika-iaap/
 
+## Nëse pyesin «a është shtrenjtë?»
+Shembuj tenderësh: komunat paguajnë **€200k–€900k** për digjitalizim shkollash.  
+→ shih `SHEMBUJ-CMIME-DIGJITALIZIM-KOSOVE.md`
+
 ## Paratë
 Bisedë e hapur: diçka **para janarit 2027**, pjesa tjetër **2027**.  
 Mos i cakto afate/përqindje fiks në takim — dëgjo ata.
